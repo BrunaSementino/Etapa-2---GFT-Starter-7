@@ -26,7 +26,7 @@ O objetivo é demonstrar domínio de **lógica de programação** e **conceitos 
 ## 🚀 **Como Clonar e Rodar os Desafios**
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+git clone https://github.com/BrunaSementino/Etapa-2---GFT-Starter-7
 
 # Acesse a pasta
 cd CalculadoraAnagramas
