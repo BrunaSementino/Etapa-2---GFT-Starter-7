@@ -1,0 +1,14 @@
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CalculadoraAnagramas\bin\Debug\net9.0\CalculadoraAnagramas.exe
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CalculadoraAnagramas\bin\Debug\net9.0\CalculadoraAnagramas.deps.json
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CalculadoraAnagramas\bin\Debug\net9.0\CalculadoraAnagramas.runtimeconfig.json
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CalculadoraAnagramas\bin\Debug\net9.0\CalculadoraAnagramas.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CalculadoraAnagramas\bin\Debug\net9.0\CalculadoraAnagramas.pdb
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CalculadoraAnagramas\obj\Debug\net9.0\CalculadoraAnagramas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CalculadoraAnagramas\obj\Debug\net9.0\CalculadoraAnagramas.AssemblyInfoInputs.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CalculadoraAnagramas\obj\Debug\net9.0\CalculadoraAnagramas.AssemblyInfo.cs
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CalculadoraAnagramas\obj\Debug\net9.0\CalculadoraAnagramas.csproj.CoreCompileInputs.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CalculadoraAnagramas\obj\Debug\net9.0\CalculadoraAnagramas.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CalculadoraAnagramas\obj\Debug\net9.0\refint\CalculadoraAnagramas.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CalculadoraAnagramas\obj\Debug\net9.0\CalculadoraAnagramas.pdb
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CalculadoraAnagramas\obj\Debug\net9.0\CalculadoraAnagramas.genruntimeconfig.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CalculadoraAnagramas\obj\Debug\net9.0\ref\CalculadoraAnagramas.dll

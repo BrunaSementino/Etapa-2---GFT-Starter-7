@@ -1,0 +1,14 @@
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CorridaDeVeiculos\bin\Debug\net9.0\CorridaDeVeiculos.exe
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CorridaDeVeiculos\bin\Debug\net9.0\CorridaDeVeiculos.deps.json
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CorridaDeVeiculos\bin\Debug\net9.0\CorridaDeVeiculos.runtimeconfig.json
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CorridaDeVeiculos\bin\Debug\net9.0\CorridaDeVeiculos.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CorridaDeVeiculos\bin\Debug\net9.0\CorridaDeVeiculos.pdb
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CorridaDeVeiculos\obj\Debug\net9.0\CorridaDeVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CorridaDeVeiculos\obj\Debug\net9.0\CorridaDeVeiculos.AssemblyInfoInputs.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CorridaDeVeiculos\obj\Debug\net9.0\CorridaDeVeiculos.AssemblyInfo.cs
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CorridaDeVeiculos\obj\Debug\net9.0\CorridaDeVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CorridaDeVeiculos\obj\Debug\net9.0\CorridaDeVeiculos.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CorridaDeVeiculos\obj\Debug\net9.0\refint\CorridaDeVeiculos.dll
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CorridaDeVeiculos\obj\Debug\net9.0\CorridaDeVeiculos.pdb
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CorridaDeVeiculos\obj\Debug\net9.0\CorridaDeVeiculos.genruntimeconfig.cache
+C:\Users\bruna\OneDrive\Área de Trabalho\Etapa 2 - GFT\CorridaDeVeiculos\obj\Debug\net9.0\ref\CorridaDeVeiculos.dll
